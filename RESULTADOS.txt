@@ -1,3 +1,5 @@
+################ NATIVA ######################
+
 Python k=13
 Start
 Number of generated k-mers: 67108864
@@ -30,6 +32,11 @@ Finish!
 real	0m2.919s
 user	0m2.915s
 sys	0m0.000s
+
+
+############### SINGULARITY ####################
+
+
 Python k=13
 Start
 Number of generated k-mers: 67108864
