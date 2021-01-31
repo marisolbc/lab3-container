@@ -17,8 +17,6 @@
 
 module load singularity/3.7.0
 
-singularity shell python_latest.sif
-
 echo "Python k=13"
 time ./python_latest.sif python ../data/k-mer13.py
 
